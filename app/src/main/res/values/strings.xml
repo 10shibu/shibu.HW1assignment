@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="button">call child</string>
+    <string name="lable">Click the button below</string>
+</resources>
